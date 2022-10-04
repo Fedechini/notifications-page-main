@@ -1,15 +1,6 @@
-# Notifications page solution
+# Notifications page
 
 This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC).
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,7 +16,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/mySolution.png)
+![](./assets/images/mySolutionPhone.png)
+![](./assets/images/solutionAllRead.png.png)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Fedechini)
+- Frontend Mentor - [Federico Bertoni](https://www.frontendmentor.io/profile/Fedechini)
