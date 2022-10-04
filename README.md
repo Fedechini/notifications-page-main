@@ -17,8 +17,8 @@ Users should be able to:
 
 ![](./assets/images/mySolution.png)
 ![](./assets/images/mySolutionPhone.png)
-![](./assets/images/solutionAllRead.png.png)
 
 ## Author
 
+- Live Preview - [Notifications page](https://fedechini.github.io/notifications-page-main/)
 - Frontend Mentor - [Federico Bertoni](https://www.frontendmentor.io/profile/Fedechini)
